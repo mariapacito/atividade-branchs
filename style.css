@@ -1,0 +1,15 @@
+body {
+font-family: Arial, sans-serif;
+transition: 0.3s;
+}
+
+.dark {
+background-color: #121212;
+color: white;
+}
+
+#modoEscuro {
+padding: 10px 20px;
+margin: 20px;
+cursor: pointer;
+}
