@@ -1,6 +1,11 @@
-footer{
-background:#222;
-color:white;
-text-align:center;
-padding:20px;
+form{
+display:flex;
+flex-direction:column;
+width:300px;
+margin:20px auto;
+gap:10px;
+}
+
+input{
+padding:10px;
 }
